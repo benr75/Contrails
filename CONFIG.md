@@ -28,6 +28,7 @@ Content about the band Phish
 - phish
 - 🐠🎶
 - ⭕️🎶
+- #phish
   
 # safeMode
 
