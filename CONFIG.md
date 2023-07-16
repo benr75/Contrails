@@ -29,6 +29,7 @@ Content about the band Phish
 - https://bsky.app/profile/weekendwook.bsky.social
 - phish
 - 🐠🎶
+- ⭕️🎶
   
 # safeMode
 
