@@ -29,6 +29,16 @@ Content about the band Phish
 - 🐠🎶
 - ⭕️🎶
 - #phish
+- "trey anastasio"
+- "page mcconnell"
+- "mike gordon"
+- "jon fishman"
+- "ck5"
+- "chris kuroda"
+- tweezer
+- carini
+- weekapaug
+
   
 # safeMode
 
